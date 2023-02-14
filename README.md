@@ -1,9 +1,9 @@
 # Resume
-#Osychenko Anton#
+Osychenko Anton
 
 
 -------------------     ----------------------------
-My mail                         osychenkoanton@gmail.com
+My mail: osychenkoanton@gmail.com
 -------------------     ----------------------------
 
 Education
