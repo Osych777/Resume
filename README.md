@@ -32,3 +32,5 @@ Hard-Skills
 
      * English (B 1)
      * Russian
+     
+     remote_theme: benbalter/retlab
