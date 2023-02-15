@@ -33,4 +33,4 @@ Hard-Skills
      * English (B 1)
      * Russian
 
-![Photo](https://picsum.photos/800/600](https://vgtimes.ru/uploads/posts/2020-08/kak-nachat-izuchat-programmirovanie-s-nulya-5-sovetov-69777.jpg?1599577729))
+![Photo]([https://picsum.photos/800/600](https://drive.google.com/file/d/1G0vI-iVJJk9_x3vLkdpzpSjNZr1HN1P5/view?usp=sharing))
