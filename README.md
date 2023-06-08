@@ -15,14 +15,7 @@ Education
 2022-2023
 :   **software tester**; Netology
 
-Experience
-----------
 
-:  **Services of performance quality control in it startup**
-
-: services for such parameters as stability, speed,
-percentage of false positive and false
-negative results, etc:
 
 --------------------
 Hard-Skills
